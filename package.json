@@ -1,0 +1,30 @@
+{
+  "name": "gulp-estrad-template",
+  "version": "0.0.0",
+  "description": "A simple wrapper around estrad-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vinnovera/gulp-estrad-template.git"
+  },
+  "keywords": [
+    "template",
+    "estrad",
+    "gulp"
+  ],
+  "author": "Per Stenström",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Vinnovera/gulp-estrad-template/issues"
+  },
+  "homepage": "https://github.com/Vinnovera/gulp-estrad-template",
+  "dependencies": {
+    "through": "~2.3.4",
+    "async-through": "^0.2.2",
+    "gulp-util": "^2.2.14",
+    "estrad-template": "git+https://github.com/Vinnovera/estrad-template.git#0cba007a47ec595c9376e37c5ed22ca7830f1529"
+  }
+}
