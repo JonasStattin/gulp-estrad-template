@@ -1,6 +1,6 @@
 {
   "name": "gulp-estrad-template",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple wrapper around estrad-template",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "through": "~2.3.4",
     "async-through": "^0.2.2",
     "gulp-util": "^2.2.14",
-    "estrad-template": "git+https://github.com/Vinnovera/estrad-template.git#7c1b9d0243892c9b63bdb839070280d5d77a8828"
+    "estrad-template": "git+https://github.com/Vinnovera/estrad-template.git#6346ad251e58f84f3d764da24dccf699951c94ae"
   }
 }
