@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Vinnovera/gulp-estrad-template",
   "dependencies": {
     "gulp-util": "^2.2.14",
-    "estrad-template": "git+https://github.com/Vinnovera/estrad-template.git#128f878287d9e52d110d3267628447c366557dff",
+    "estrad-template": "git+https://github.com/Vinnovera/estrad-template.git#2e10fc09ad513ddbe8ec3ed7f2771dfb376dae51",
     "node-extend": "^0.2.0",
     "map-stream": "^0.1.0"
   },
