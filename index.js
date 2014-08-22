@@ -3,7 +3,7 @@
 		map = require('map-stream'),
 		gutil = require('gulp-util'),
 		partials = require("estrad-template"),
-		extend = require("node-extend"),
+		extend = require("extend"),
 		PluginError = gutil.PluginError;
 
 	const PLUGIN_NAME = 'gulp-partials';
