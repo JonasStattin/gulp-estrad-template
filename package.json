@@ -25,7 +25,7 @@
     "through": "~2.3.4",
     "async-through": "^0.2.2",
     "gulp-util": "^2.2.14",
-    "estrad-template": "git+https://github.com/Vinnovera/estrad-template.git#c806bbc4a57c4dd34d687095f0e0bba598e27665",
+    "estrad-template": "git+https://github.com/Vinnovera/estrad-template.git#108e3d2fa1865d610a0837c2989ca477b16425bc",
     "node-extend": "^0.2.0"
   }
 }
