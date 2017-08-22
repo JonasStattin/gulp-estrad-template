@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/JonasStattin/gulp-estrad-template",
   "dependencies": {
-    "estrad-template": "git+https://github.com/JonasStattin/estrad-template.git#8941b6ba80d100c32480fbd861e650ed5acbd6d9",
+    "estrad-template": "git+https://github.com/JonasStattin/estrad-template.git#fdc5ca85226644e6edfefde7632c8550c0760279",
     "extend": "^3.0.1",
     "gulp-util": "^3.0.8",
     "map-stream": "^0.1.0"
