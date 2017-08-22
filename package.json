@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vinnovera/gulp-estrad-template.git"
+    "url": "https://github.com/JonasStattin/gulp-estrad-template.git"
   },
   "keywords": [
     "template",
@@ -18,11 +18,11 @@
   "author": "Per Stenström",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/Vinnovera/gulp-estrad-template/issues"
+    "url": "https://github.com/JonasStattin/gulp-estrad-template/issues"
   },
-  "homepage": "https://github.com/Vinnovera/gulp-estrad-template",
+  "homepage": "https://github.com/JonasStattin/gulp-estrad-template",
   "dependencies": {
-    "estrad-template": "git+https://github.com/Vinnovera/estrad-template.git#f97618461fe78365314dfc697491ead6676fbe1a",
+    "estrad-template": "git+https://github.com/JonasStattin/estrad-template.git#f97618461fe78365314dfc697491ead6676fbe1a",
     "extend": "^3.0.1",
     "gulp-util": "^3.0.8",
     "map-stream": "^0.1.0"
